@@ -13,7 +13,7 @@ Onderstaand een lijst van suggesties om de AI tooling te laten doen. Je mag natu
 - Graphics & artwork
 - Muziek
 - Features
-- 
+  
 ## Plan laten genereren
 Vraag aan de AI tool (ChatGPT, Github CoPilot) om een plan te genereren voor het maken van een game. Bijv. _"help me create a space invaders game using Phaser"_
 
