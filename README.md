@@ -10,7 +10,8 @@ Onderstaand een lijst van suggesties om de AI tooling te laten doen. Je mag natu
 - Build & release pipeline
 - Graphics & artwork
 - Muziek
-
+- Features
+- 
 ## Plan laten genereren
 Vraag aan de AI tool (ChatGPT, Github CoPilot) om een plan te genereren voor het maken van een game. Bijv. _"help me create a space invaders game using Phaser"_
 
@@ -38,3 +39,7 @@ Vraag aan de AI tool (Dall-E, Midjourney) om artwork te generen voor een splash 
 
 ## Muziek
 Gebruik AI tooling (AIVA) om muziek en soundeffecten te genereren voor de game. Vraag vervolgens aan ChatGPT of CoPilot om de muziek en sound effecten toe te voegen aan de game.
+
+## Features
+Vraag aan de AI tool (ChatGPT, Github CoPilot) om specifieke features te implementeren, zoals explosies, scorebord, end game conditions, bewegende vijanden, etc. 
+Een lijst met voorbeeld features staat in [issues.md](issues.md)
