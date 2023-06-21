@@ -2,6 +2,8 @@ We gaan deze workshop een Space Invaders game maken met AI tools. De bedoeling i
 
 Voorbeeld game: https://wrkshpz.z6.web.core.windows.net/
 
+Voorbeeld online space invaders: https://freeinvaders.org/
+
 Onderstaand een lijst van suggesties om de AI tooling te laten doen. Je mag natuurlijk ook zelf dingen bedenken.
 
 - Plan laten genereren 
